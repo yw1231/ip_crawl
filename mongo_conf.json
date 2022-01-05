@@ -1,0 +1,7 @@
+{
+    "host":"your host",
+    "port":"your port(int)",
+    "db":"db",
+    "username":"your mongodb username",
+    "password":"your mongodb password"
+}

@@ -1,0 +1,4 @@
+fake_useragent==0.1.11
+httpx==0.20.0
+lxml==4.6.4
+pymongo==4.0.1
